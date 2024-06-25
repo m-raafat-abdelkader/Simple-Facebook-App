@@ -1,7 +1,7 @@
-import Token from "../../DB/Models/token.model.js";
-import User from "../../DB/Models/user.model.js";
-import Post from "../../DB/Models/post.model.js";
-import Comment from "../../DB/Models/comment.model.js";
+import Token from "../../../DB/Models/token.model.js";
+import User from "../../../DB/Models/user.model.js";
+import Post from "../../../DB/Models/post.model.js";
+import Comment from "../../../DB/Models/comment.model.js";
 
 import { compareSync, hashSync } from "bcrypt";
 import { Op } from "sequelize";

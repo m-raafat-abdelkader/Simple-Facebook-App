@@ -1,6 +1,6 @@
 import { Op } from "sequelize"
-import Post from "../../DB/Models/post.model.js"
-import User from "../../DB/Models/user.model.js"
+import Post from "../../../DB/Models/post.model.js"
+import User from "../../../DB/Models/user.model.js"
 
 
 //create a post 
