@@ -2,7 +2,7 @@ import express from "express";
 import userRouter from "./src/Modules/Users/user.routes.js";
 import postRouter from "./src/Modules/Posts/post.routes.js";
 import commentRouter from "./src/Modules/Comments/comment.routes.js";
-import { db_sync } from "./src/DB/connection.js";
+import { db_sync } from "./DB/connection.js";
 
 
 const app = express();
