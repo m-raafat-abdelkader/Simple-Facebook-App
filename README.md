@@ -37,7 +37,7 @@ A Facebook-like application built using Sequelize and Express to manage users, p
    - Delete comments
 
 7. **Post Ownership**:
-   - Users can only edit or delete (soft delete) their own posts
+   - Users can only edit or delete (soft delete) their posts
 
 8. **Password Security**:
    - Use bcrypt.js to hash and store user passwords securely
