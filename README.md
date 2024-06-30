@@ -1,7 +1,7 @@
 # Simple-Facebook-App
-📘 Postman Documentation: https://documenter.getpostman.com/view/32279973/2sA3XV9KgQ
 
 A Facebook-like application built using Sequelize and Express to manage users, posts, and comments.
+📘 Postman Documentation: https://documenter.getpostman.com/view/32279973/2sA3XV9KgQ
 
 ## Features
 
